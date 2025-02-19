@@ -56,7 +56,7 @@ A simple yet powerful URL shortener built with *Python* and *Flask*. This projec
 ---
 
 ### *Live Demo*
-Check out the live demo: 
+Check out the live demo: http://127.0.0.1:5000
 
 ---
 
